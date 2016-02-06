@@ -1,0 +1,1 @@
+This is an experimental Haskell port of [William Whitaker's Words](https://github.com/dsanson/Words), a Latin-English dictionary and morphological analyzer originally written in Ada.
